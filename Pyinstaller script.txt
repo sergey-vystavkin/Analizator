@@ -1,0 +1,1 @@
+pyinstaller Analizator.py --onefile --windowed --icon="C:\Users\Serhii.Vystavkin\Downloads\Archie_for_Windows\Archie for Windows\Files\ICO\SPC_Ai.ico"
