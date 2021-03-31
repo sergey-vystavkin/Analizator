@@ -2,7 +2,7 @@ altgraph==0.17
 beautifulsoup4==4.8.2
 easygui==0.98.1
 future==0.18.2
-lxml==4.5.0
+lxml==4.6.3
 numpy==1.18.1
 pandas==1.0.1
 pefile==2019.4.18
